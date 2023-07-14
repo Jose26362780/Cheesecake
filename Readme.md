@@ -6,7 +6,7 @@
 
 ![preview](./.github/cover.png)
 
-👉🏼[Link do projeto](https://nlw-copa-2022.netlify.app/)
+👉🏼[Link do projeto](https://cheesecake-rho.vercel.app/)
 
 
 #  💻🔧 Tecnologias
